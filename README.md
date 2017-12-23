@@ -3,15 +3,19 @@
 
 A collection of awesome crypto goodies about cryptocurrencies and blockchains, public key infrastructure (pki), and more
 
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+
 
 
 
 ## Blockchains & Merkle Trees 
 
+_D-I-Y - Do-It-Yourself - Build Your Own Cryptos_
 
-**Blockchain Lite**  (gem: [](), github: []())
 
-**Merkle Tree*  (gem: [](), github: []())
+**Blockchain Lite**  (gem: [blockchain-lite](https://rubygems.org/gems/blockchain-lite), github: [blockchain.lite.rb](https://github.com/openblockchains/blockchain.lite.rb)) - build your own blockchain with crypto hashes - revolutionize the world with blockchains, blockchains, blockchains one block at a time
+
+**Merkle Tree**  (gem: [merkletree](https://rubygems.org/gems/merkletree), github: [openblockchains/merkletree.rb](https://github.com/openblockchains/merkletree.rb)) - build your own crypto hash trees; named after Ralph Merkle who patented hash trees in 1979; grow your own money on trees   
 
 
 ## Cryptocurrenies
