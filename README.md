@@ -11,10 +11,10 @@ A collection of awesome crypto goodies about cryptocurrencies and blockchains, p
 
 ## Blockchains & Merkle Trees 
 
-_D-I-Y - Do-It-Yourself - Build Your Own Cryptos_
+_Do-It-Yourself (D-I-Y) - Build Your Own Cryptos_
 
 
-**Blockchain Lite**  (gem: [blockchain-lite](https://rubygems.org/gems/blockchain-lite), github: [blockchain.lite.rb](https://github.com/openblockchains/blockchain.lite.rb)) - build your own blockchain with crypto hashes - revolutionize the world with blockchains, blockchains, blockchains one block at a time
+**Blockchain Lite**  (gem: [blockchain-lite](https://rubygems.org/gems/blockchain-lite), github: [openblockchains/blockchain.lite.rb](https://github.com/openblockchains/blockchain.lite.rb)) - build your own blockchain with crypto hashes - revolutionize the world with blockchains, blockchains, blockchains one block at a time
 
 **Merkle Tree**  (gem: [merkletree](https://rubygems.org/gems/merkletree), github: [openblockchains/merkletree.rb](https://github.com/openblockchains/merkletree.rb)) - build your own crypto hash trees; named after Ralph Merkle who patented hash trees in 1979; grow your own money on trees   
 
@@ -25,7 +25,7 @@ _D-I-Y - Do-It-Yourself - Build Your Own Cryptos_
 
 ### Bitcoin
 
-_Classic, Cash, Cash Plus, Gold, Silver, Diamond, Platinum_
+_Classic, Cash, Cash Plus, Gold, Silver, Diamond, Platinum, Unlimited_
 
 **Bitcoin** (gem: [bitcoin-ruby](https://rubygems.org/gems/bitcoin-ruby), github: [lian/bitcoin-ruby](https://github.com/lian/bitcoin-ruby)) - bitcoin utils and protocol
 
