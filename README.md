@@ -1,4 +1,4 @@
-_Cryptos, Cryptos, Cryptos_
+Cryptos, Cryptos, Cryptos • Do-It-Yourself (D-I-Y) - Build Your Own Cryptos  • Bitcoin (Classic, Cash, Gold, Unlimited), Monero & Futures
 
 ``` ruby
 Digest::SHA256.hexdigest( 'Hello, Cryptos!' )
