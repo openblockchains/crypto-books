@@ -51,9 +51,10 @@ _Classic, Cash, Cash Plus, Gold, Silver, Diamond, Platinum, Unlimited_
 [**How Does Bitcoin Force Consensus Among Byzantine Generals?**](http://www.akitaonrails.com/2017/11/01/how-does-bitcoin-force-consensus-among-byzantine-generals) by Fabio Akita, November 2017
 
 
+
 ## Misc
 
-**Let's build a blockchain** by Haseeb Qureshi (github: [Haseeb-Qureshi/lets-build-a-blockchain](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain)) -- A mini cryptocurrency in ruby (from scratch)
+**Let's build a blockchain** (github: [Haseeb-Qureshi/lets-build-a-blockchain](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain)) by Haseeb Qureshi  -- A mini cryptocurrency (from scratch)
 
 
 
