@@ -1,3 +1,4 @@
+_Cryptos, Cryptos, Cryptos_
 
 # Awesome Crypto
 
@@ -17,6 +18,8 @@ _D-I-Y - Do-It-Yourself - Build Your Own Cryptos_
 
 **Merkle Tree**  (gem: [merkletree](https://rubygems.org/gems/merkletree), github: [openblockchains/merkletree.rb](https://github.com/openblockchains/merkletree.rb)) - build your own crypto hash trees; named after Ralph Merkle who patented hash trees in 1979; grow your own money on trees   
 
+**Central Bank** (gem: [centralbank](https://rubygems.org/gems/centralbank), github: [openblockchains/centralbank](https://github.com/openblockchains/centralbank)) - command line tool to print your own money / cryptocurrency; run your own federated central bank nodes on the blockchain peer-to-peer over HTTP; revolutionize the world one block at a time
+
 
 ## Cryptocurrenies
 
@@ -24,10 +27,19 @@ _D-I-Y - Do-It-Yourself - Build Your Own Cryptos_
 
 _Classic, Cash, Cash Plus, Gold, Silver, Diamond, Platinum_
 
+**Bitcoin** (gem: [bitcoin-ruby](https://rubygems.org/gems/bitcoin-ruby), github: [lian/bitcoin-ruby](https://github.com/lian/bitcoin-ruby)) - bitcoin utils and protocol
+
 
 ### Monero
 
+**Monero** (gem: [monero](https://rubygems.org/gems/monero), github: [krtschmr/monero](https://github.com/krtschmr/monero)) - client for monero-wallet-rpc
 
+
+
+
+## Articles
+
+[**How Does Bitcoin Force Consensus Among Byzantine Generals?**](http://www.akitaonrails.com/2017/11/01/how-does-bitcoin-force-consensus-among-byzantine-generals) by Fabio Akita, November 2017
 
 
 ## Misc
