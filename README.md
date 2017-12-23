@@ -4,7 +4,7 @@ _Cryptos, Cryptos, Cryptos_
 Digest::SHA256.hexdigest( 'Hello, Cryptos!' )
 #=> "dffd6021bb2bd5b0af676290809ec3a53191dd81c7f70a4b28688a362182986f"
 
-Digest::SHA256.hexdigest( 'Hello, Cryptos! - Hello, Cryptos! - Hello, Cryptos! - Hello, Cryptos! - Hello, Cryptos!' )
+Digest::SHA256.hexdigest( 'Hello, Cryptos! - Hello, Cryptos! - Hello, Cryptos!' )
 #=> "9e513dbdfe60a14f0cac37aeacbe24fa961b428e8ddeb4d6a66006b29425bbd2"
 ```
 
