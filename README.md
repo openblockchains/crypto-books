@@ -60,7 +60,7 @@ _Classic, Cash, Cash Plus, Gold, Silver, Diamond, Platinum, Unlimited_
 
 ## More Questions & Answers
 
-[**Crypthography @ Stackoverflow**](https://crypto.stackexchange.com/) - [popular tags](https://crypto.stackexchange.com/tags) include:
+[**Crypthography @ Stackexchange**](https://crypto.stackexchange.com/) - [popular tags](https://crypto.stackexchange.com/tags):
 encryption ×
 hash ×
 rsa ×
@@ -81,7 +81,7 @@ homomorphic-encryption ×
 hmac ×
 collision-resistance ...
 
-[**Bitcoin @ Stackoverflow**](https://bitcoin.stackexchange.com) - [popular tags](https://bitcoin.stackexchange.com/tags) include: 
+[**Bitcoin @ Stackexchange**](https://bitcoin.stackexchange.com) - [popular tags](https://bitcoin.stackexchange.com/tags): 
 transactions ×
 blockchain ×
 bitcoin-core ×
@@ -104,7 +104,7 @@ mining-theory ×
 mining-hardware ×
 altcoin ...
 
-[**Ethereum @ Stackexchange**](https://ethereum.stackexchange.com) - [popular tags](https://ethereum.stackexchange.com/tags) include:
+[**Ethereum @ Stackexchange**](https://ethereum.stackexchange.com) - [popular tags](https://ethereum.stackexchange.com/tags):
 solidity ×
 go-ethereum ×
 contract-development ×
@@ -139,6 +139,45 @@ contract-debugging ×
 addresses ×
 metamask × 
 evm ...
+
+
+[**Monero @ Stackexchange**](https://monero.stackexchange.com) - [popular tags](https://monero.stackexchange.com/tags):
+monero-wallet-cli ×
+monerod ×
+monero-wallet-gui ×
+blockchain ×
+security ×
+mining-pools ×
+mining ×
+ringct ×
+cpu-mining ×
+synchronization ×
+privacy ×
+full-node ×
+gpu-mining ×
+mnemonic-seed ×
+cryptonote ×
+cold-storage ×
+transaction-data ×
+cryptography ×
+mymonero ×
+daemon ×
+viewkey ×
+transaction-fees ×
+kovri ×
+payment-id ×
+ring-signatures ×
+hard-fork ×
+ringsize ×
+transaction-confirmation ×
+mining-theory ×
+aeon ×
+wallet-recovery ×
+cryptocurrency-comparison ×
+hashrate
+
+
+
 
 
 ## Awesome Awesomeness
