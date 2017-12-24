@@ -39,7 +39,7 @@ _Classic, Cash, Cash Plus, Gold, Silver, Diamond, Platinum, Unlimited_
 **Bitcoin** (gem: [bitcoin-ruby](https://rubygems.org/gems/bitcoin-ruby), github: [lian/bitcoin-ruby](https://github.com/lian/bitcoin-ruby)) - bitcoin utils and protocol
 
 
-[**Bitcoin @ Stackexchange**](https://bitcoin.stackexchange.com) - [popular tags](https://bitcoin.stackexchange.com/tags): 
+[**Bitcoin Questions & Answers @ Stackexchange**](https://bitcoin.stackexchange.com) - [popular tags](https://bitcoin.stackexchange.com/tags): 
 transactions ×
 blockchain ×
 bitcoin-core ×
@@ -68,7 +68,7 @@ altcoin ...
 
 **Monero** (gem: [monero](https://rubygems.org/gems/monero), github: [krtschmr/monero](https://github.com/krtschmr/monero)) - client for monero-wallet-rpc
 
-[**Monero @ Stackexchange**](https://monero.stackexchange.com) - [popular tags](https://monero.stackexchange.com/tags):
+[**Monero Questions & Answers @ Stackexchange**](https://monero.stackexchange.com) - [popular tags](https://monero.stackexchange.com/tags):
 monero-wallet-cli ×
 monerod ×
 monero-wallet-gui ×
@@ -101,8 +101,7 @@ mining-theory ×
 aeon ×
 wallet-recovery ×
 cryptocurrency-comparison ×
-hashrate
-
+hashrate ...
 
 
 
