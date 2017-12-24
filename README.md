@@ -113,7 +113,7 @@ hashrate ...
 
 ## Misc
 
-**Let's build a blockchain** (github: [Haseeb-Qureshi/lets-build-a-blockchain](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain)) by Haseeb Qureshi  -- A mini cryptocurrency (from scratch)
+**Let's build a blockchain** (github: [Haseeb-Qureshi/lets-build-a-blockchain](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain)) by Haseeb Qureshi - a mini cryptocurrency built from scratch in six stages
 
 
 
