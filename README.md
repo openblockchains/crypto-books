@@ -58,28 +58,51 @@ _Classic, Cash, Cash Plus, Gold, Silver, Diamond, Platinum, Unlimited_
 
 
 
-## More
+## More Questions & Answers
 
 [**Crypthography @ Stackoverflow**](https://crypto.stackexchange.com/) - [tags include](https://crypto.stackexchange.com/tags):
-encryption × 2461,
-hash × 1558, 
-rsa × 1447,
-aes × 1355,
-public-key × 1131,
-cryptanalysis × 947,
-elliptic-curves × 850,
-signature × 648,
-block-cipher × 606,
-algorithm-design × 518,
-random-number-generator × 481,
-diffie-hellman × 468,
-protocol-design × 462,
-keys × 446,
-authentication × 420,
-symmetric × 408,
-homomorphic-encryption × 396,
-hmac × 375,
-collision-resistance × 359, ...
+encryption ×
+hash ×
+rsa ×
+aes ×
+public-key ×
+cryptanalysis ×
+elliptic-curves ×
+signature ×
+block-cipher ×
+algorithm-design ×
+random-number-generator ×
+diffie-hellman ×
+protocol-design ×
+keys ×
+authentication ×
+symmetric ×
+homomorphic-encryption ×
+hmac ×
+collision-resistance ...
+
+[**Bitcoin @ Stackoverflow**](https://bitcoin.stackexchange.com) - [tags include](https://bitcoin.stackexchange.com/tags): 
+transactions ×
+blockchain ×
+bitcoin-core ×
+wallet ×
+bitcoind ×
+address ×
+mining-pools ×
+blockchain.info ×
+transaction-fees ×
+unconfirmed-transactions ×
+security ×
+exchanges ×
+client ×
+api ×
+json-rpc ×
+litecoin ×
+private-key ×
+block ×
+mining-theory ×
+mining-hardware ×
+altcoin ...
 
 
 ## Awesome Awesomeness
