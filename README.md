@@ -39,9 +39,69 @@ _Classic, Cash, Cash Plus, Gold, Silver, Diamond, Platinum, Unlimited_
 **Bitcoin** (gem: [bitcoin-ruby](https://rubygems.org/gems/bitcoin-ruby), github: [lian/bitcoin-ruby](https://github.com/lian/bitcoin-ruby)) - bitcoin utils and protocol
 
 
+[**Bitcoin @ Stackexchange**](https://bitcoin.stackexchange.com) - [popular tags](https://bitcoin.stackexchange.com/tags): 
+transactions ×
+blockchain ×
+bitcoin-core ×
+wallet ×
+bitcoind ×
+address ×
+mining-pools ×
+blockchain.info ×
+transaction-fees ×
+unconfirmed-transactions ×
+security ×
+exchanges ×
+client ×
+api ×
+json-rpc ×
+litecoin ×
+private-key ×
+block ×
+mining-theory ×
+mining-hardware ×
+altcoin ...
+
+
+
 ### Monero
 
 **Monero** (gem: [monero](https://rubygems.org/gems/monero), github: [krtschmr/monero](https://github.com/krtschmr/monero)) - client for monero-wallet-rpc
+
+[**Monero @ Stackexchange**](https://monero.stackexchange.com) - [popular tags](https://monero.stackexchange.com/tags):
+monero-wallet-cli ×
+monerod ×
+monero-wallet-gui ×
+blockchain ×
+security ×
+mining-pools ×
+mining ×
+ringct ×
+cpu-mining ×
+synchronization ×
+privacy ×
+full-node ×
+gpu-mining ×
+mnemonic-seed ×
+cryptonote ×
+cold-storage ×
+transaction-data ×
+cryptography ×
+mymonero ×
+daemon ×
+viewkey ×
+transaction-fees ×
+kovri ×
+payment-id ×
+ring-signatures ×
+hard-fork ×
+ringsize ×
+transaction-confirmation ×
+mining-theory ×
+aeon ×
+wallet-recovery ×
+cryptocurrency-comparison ×
+hashrate
 
 
 
@@ -81,29 +141,6 @@ homomorphic-encryption ×
 hmac ×
 collision-resistance ...
 
-[**Bitcoin @ Stackexchange**](https://bitcoin.stackexchange.com) - [popular tags](https://bitcoin.stackexchange.com/tags): 
-transactions ×
-blockchain ×
-bitcoin-core ×
-wallet ×
-bitcoind ×
-address ×
-mining-pools ×
-blockchain.info ×
-transaction-fees ×
-unconfirmed-transactions ×
-security ×
-exchanges ×
-client ×
-api ×
-json-rpc ×
-litecoin ×
-private-key ×
-block ×
-mining-theory ×
-mining-hardware ×
-altcoin ...
-
 [**Ethereum @ Stackexchange**](https://ethereum.stackexchange.com) - [popular tags](https://ethereum.stackexchange.com/tags):
 solidity ×
 go-ethereum ×
@@ -139,44 +176,6 @@ contract-debugging ×
 addresses ×
 metamask × 
 evm ...
-
-
-[**Monero @ Stackexchange**](https://monero.stackexchange.com) - [popular tags](https://monero.stackexchange.com/tags):
-monero-wallet-cli ×
-monerod ×
-monero-wallet-gui ×
-blockchain ×
-security ×
-mining-pools ×
-mining ×
-ringct ×
-cpu-mining ×
-synchronization ×
-privacy ×
-full-node ×
-gpu-mining ×
-mnemonic-seed ×
-cryptonote ×
-cold-storage ×
-transaction-data ×
-cryptography ×
-mymonero ×
-daemon ×
-viewkey ×
-transaction-fees ×
-kovri ×
-payment-id ×
-ring-signatures ×
-hard-fork ×
-ringsize ×
-transaction-confirmation ×
-mining-theory ×
-aeon ×
-wallet-recovery ×
-cryptocurrency-comparison ×
-hashrate
-
-
 
 
 
