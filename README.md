@@ -130,7 +130,7 @@ hashrate ...
 
 
 [**Programming Cryptocurrencies and Blockchains in Ruby ( Beta / Rough Draft )**](http://yukimotopress.github.io/blockchains)
-by Gerald Bauer et al, 2018 - FREE (Online Source Version) @ Yuki & Moto Press Bookshelf --
+by Gerald Bauer et al, 2018 - FREE (Online Version) @ Yuki & Moto Press Bookshelf --
 _Digital $$$ Alchemy - What's a Blockchain? -
 How-To Turn Digital Bits Into $$$ or €€€? •
 Decentralize Payments. Decentralize Transactions. Decentralize Blockchains. •
