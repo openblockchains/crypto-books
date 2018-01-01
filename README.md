@@ -109,11 +109,59 @@ hashrate ...
 
 [**How Does Bitcoin Force Consensus Among Byzantine Generals?**](http://www.akitaonrails.com/2017/11/01/how-does-bitcoin-force-consensus-among-byzantine-generals) by Fabio Akita, November 2017
 
+[**blockchain-lite - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time!**](https://planetruby.github.io/advent2017/01-blockchain-lite) by Gerald Bauer, Ruby Advent Calendar 2017 / Day 1, December 2017
+
+[**merkletree library - Build Your Own Crypto Hash Trees; Grow Your Own Money on Trees**](https://planetruby.github.io/advent2017/19-merkletree.html) by Gerald Bauer, Ruby Advent Calendar 2017 / Day 19, December 2017
+
+[**centralbank command line tool (and library) - Print Your Own Money / Cryptocurrency; Run Your Own Federated Central Bank Nodes on the Blockchain Peer-to-Peer over HTTP**](https://planetruby.github.io/advent2017/24-centralbank.html) by Gerald Bauer, Ruby Advent Calendar 2017 / Day 24, December 2017
+
+
+## Talk Notes
+
+- [**Blockchain! Blockchain! Blockchain! - Build Your Own Blockchains in Ruby from Zero (Scratch)**](https://github.com/geraldb/talks/blob/master/blockchain_ruby.md) by Gerald Bauer, Vienna.rb, Dezember 2017
 
 
 ## Misc
 
 **Let's build a blockchain** (github: [Haseeb-Qureshi/lets-build-a-blockchain](https://github.com/Haseeb-Qureshi/lets-build-a-blockchain)) by Haseeb Qureshi - a mini cryptocurrency built from scratch in six stages
+
+
+## Books
+
+
+[**Programming Cryptocurrencies and Blockchains in Ruby ( Beta / Rough Draft )**](http://yukimotopress.github.io/blockchains)
+by Gerald Bauer et al, 2018 - FREE (Online Source Version) @ Yuki & Moto Press Bookshelf --
+_Digital $$$ Alchemy - What's a Blockchain? -
+How-To Turn Digital Bits Into $$$ or €€€? •
+Decentralize Payments. Decentralize Transactions. Decentralize Blockchains. •
+The Proof of the Pudding is ... The Bitcoin (BTC) Blockchain(s)
+++
+Building Blockchains from Scratch -
+A Blockchain in Ruby in 20 Lines! A Blockchain is a Data Structure  •
+What about Proof-of-Work? What about Consensus?   •
+Find the Lucky Number - Nonce == Number Used Once
+++
+Adding Transactions -
+The World's Worst Database - Bitcoin Blockchain Mining  •
+Tulips on the Blockchain! Adding Transactions
+++
+Blockchain Lite -
+Basic Blocks  •
+Proof-of-Work Blocks  •
+Transactions
+++
+Merkle Tree -
+Build Your Own Crypto Hash Trees; Grow Your Own Money on Trees  •
+What's a Merkle Tree?   •
+Transactions
+++
+Central Bank -
+Run Your Own Federated Central Bank Nodes on the Blockchain Peer-to-Peer over HTTP  •
+Inside Mining - Printing Cryptos, Cryptos, Cryptos on the Blockchain
+++
+Awesome Crypto
+++
+Case Studies - Dutch Gulden  • Shilling  • CryptoKitties (and CryptoCopycats)_
 
 
 
