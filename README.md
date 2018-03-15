@@ -9,16 +9,18 @@ Digest::SHA256.hexdigest( 'Hello, Cryptos! - Hello, Cryptos! - Hello, Cryptos!' 
 ```
 
 
+
 # Awesome Crypto
 
 A collection of awesome crypto goodies about cryptocurrencies and blockchains, public key infrastructure (pki), and more
 
-#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+_Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
 
 
-## Blockchains & Merkle Trees 
+
+## Blockchains, (Hyper) Ledgers & Merkle Trees 
 
 _Do-It-Yourself (D-I-Y) - Build Your Own Cryptos_
 
@@ -27,7 +29,11 @@ _Do-It-Yourself (D-I-Y) - Build Your Own Cryptos_
 
 **Merkle Tree**  (gem: [merkletree](https://rubygems.org/gems/merkletree), github: [openblockchains/merkletree.rb](https://github.com/openblockchains/merkletree.rb)) - build your own crypto hash trees; named after Ralph Merkle who patented hash trees in 1979; grow your own money on trees   
 
+**Ledger Lite**  (gem: [ledger-lite](https://rubygems.org/gems/ledger-lite), github: [openblockchains/ledger.lite.rb](https://github.com/openblockchains/ledger.lite.rb)) - hyper ledger book for the distributed blockchain internet era; add your transactions one block at a time; transfer crypto(currencie)s and balance the accounts
+
+
 **Central Bank** (gem: [centralbank](https://rubygems.org/gems/centralbank), github: [openblockchains/centralbank](https://github.com/openblockchains/centralbank)) - command line tool to print your own money / cryptocurrency; run your own federated central bank nodes on the blockchain peer-to-peer over HTTP; revolutionize the world one block at a time
+
 
 
 ## Cryptocurrenies
@@ -110,21 +116,31 @@ hashrate ...
 **Nano** (gem: [nanook](https://rubygems.org/gems/nanook), github: [lukes/nanook](https://github.com/lukes/nanook)) - Ruby library for managing a nano currency node, including making and receiving payments, using the nano RPC protocol
 
 
+### CryptoKitties (and Coypcats)
+
+**Copycats** (gem: [copycats](https://rubygems.org/gems/copycats), github: [openblockchains/copycats](https://github.com/openblockchains/copycats)) - tools and library for (crypto) kitties collectibles incl. gene reader, mix genes breeding calculator, traits reports, and much more
+
+
 
 ## Articles
 
 [**How Does Bitcoin Force Consensus Among Byzantine Generals?**](http://www.akitaonrails.com/2017/11/01/how-does-bitcoin-force-consensus-among-byzantine-generals) by Fabio Akita, November 2017
 
-[**blockchain-lite - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time!**](https://planetruby.github.io/advent2017/01-blockchain-lite) by Gerald Bauer, Ruby Advent Calendar 2017 / Day 1, December 2017
+[**blockchain-lite - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time!**](https://planetruby.github.io/calendar/advent2017/01-blockchain-lite) by Gerald Bauer, Ruby Advent Calendar 2017 / Day 1, December 2017
 
-[**merkletree library - Build Your Own Crypto Hash Trees; Grow Your Own Money on Trees**](https://planetruby.github.io/advent2017/19-merkletree.html) by Gerald Bauer, Ruby Advent Calendar 2017 / Day 19, December 2017
+[**merkletree library - Build Your Own Crypto Hash Trees; Grow Your Own Money on Trees**](https://planetruby.github.io/calendar/advent2017/19-merkletree.html) by Gerald Bauer, Ruby Advent Calendar 2017 / Day 19, December 2017
 
-[**centralbank command line tool (and library) - Print Your Own Money / Cryptocurrency; Run Your Own Federated Central Bank Nodes on the Blockchain Peer-to-Peer over HTTP**](https://planetruby.github.io/advent2017/24-centralbank.html) by Gerald Bauer, Ruby Advent Calendar 2017 / Day 24, December 2017
+[**centralbank command line tool (and library) - Print Your Own Money / Cryptocurrency; Run Your Own Federated Central Bank Nodes on the Blockchain Peer-to-Peer over HTTP**](https://planetruby.github.io/calendar/advent2017/24-centralbank.html) by Gerald Bauer, Ruby Advent Calendar 2017 / Day 24, December 2017
+
+[**Programming Blockchains Step-by-Step - Let's Start w/ (Crypto) Hashes...](https://github.com/openblockchains/programming-blockchains-step-by-step) by Gerald Bauer, 2018
 
 
 ## Talk Notes
 
 - [**Blockchain! Blockchain! Blockchain! - Build Your Own Blockchains in Ruby from Zero (Scratch)**](https://github.com/geraldb/talks/blob/master/blockchain_ruby.md) by Gerald Bauer, Vienna.rb, Dezember 2017
+
+- [**Blockchain vs (Hyper) Ledger -- Inside (Hyper) Ledger Lite - Add Transactions One Block at a Time and Balance the Accounts (Books)**](https://github.com/geraldb/talks/blob/master/hyperledger.md) by Gerald Bauer, Hyperledger Vienna, March 2018
+
 
 
 ## Misc
@@ -242,9 +258,15 @@ _A curated list of awesome lists._
 
 
 
-## Meta
+## Questions? Comments?
 
-**License**
+Send them to the [ruby-talk mailing list](https://www.ruby-lang.org/en/community/mailing-lists/)
+or the [(online) ruby-talk discourse mirror](https://rubytalk.org)
+or post them on the [ruby reddit](https://www.reddit.com/r/ruby). Thanks.
+
+
+
+## License
 
 ![](https://publicdomainworks.github.io/buttons/zero88x31.png)
 
