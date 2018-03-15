@@ -105,6 +105,12 @@ hashrate ...
 
 
 
+### Nano
+
+**Nano** (gem: [nanook](https://rubygems.org/gems/nanook), github: [lukes/nanook](https://github.com/lukes/nanook)) - Ruby library for managing a nano currency node, including making and receiving payments, using the nano RPC protocol
+
+
+
 ## Articles
 
 [**How Does Bitcoin Force Consensus Among Byzantine Generals?**](http://www.akitaonrails.com/2017/11/01/how-does-bitcoin-force-consensus-among-byzantine-generals) by Fabio Akita, November 2017
