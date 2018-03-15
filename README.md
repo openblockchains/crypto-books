@@ -20,8 +20,14 @@ _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 ## Crypto Algos
 
+### Crypto.rb
+
+github: [crypto-rb](https://github.com/crypto-rb) - by Tony Arcieri et al - a collection of cryptography projects
+
 **Ruby FFI binding to the Networking and Cryptography (NaCl) Library**
 (gem: [rbnacl](https://rubygems.org/gems/rbnacl), github: [crypto-rb/rbnacl](https://github.com/crypto-rb/rbnacl) by Tony Arcieri et al -- also known as libsodium; the Networking and Cryptography (NaCl) library provides a high-level toolkit for building cryptographic systems and protocols
+
+
 
 
 ## Blockchains, (Hyper) Ledgers & Merkle Trees 
