@@ -116,7 +116,7 @@ hashrate ...
 **Nano** (gem: [nanook](https://rubygems.org/gems/nanook), github: [lukes/nanook](https://github.com/lukes/nanook)) - Ruby library for managing a nano currency node, including making and receiving payments, using the nano RPC protocol
 
 
-### CryptoKitties (and Coypcats)
+### CryptoKitties (and Copycats)
 
 **Copycats** (gem: [copycats](https://rubygems.org/gems/copycats), github: [openblockchains/copycats](https://github.com/openblockchains/copycats)) - tools and library for (crypto) kitties collectibles incl. gene reader, mix genes breeding calculator, traits reports, and much more
 
@@ -132,7 +132,7 @@ hashrate ...
 
 [**centralbank command line tool (and library) - Print Your Own Money / Cryptocurrency; Run Your Own Federated Central Bank Nodes on the Blockchain Peer-to-Peer over HTTP**](https://planetruby.github.io/calendar/advent2017/24-centralbank.html) by Gerald Bauer, Ruby Advent Calendar 2017 / Day 24, December 2017
 
-[**Programming Blockchains Step-by-Step - Let's Start w/ (Crypto) Hashes...](https://github.com/openblockchains/programming-blockchains-step-by-step) by Gerald Bauer, 2018
+[**Programming Blockchains Step-by-Step - Let's Start w/ (Crypto) Hashes...**](https://github.com/openblockchains/programming-blockchains-step-by-step) by Gerald Bauer, 2018
 
 
 ## Talk Notes
