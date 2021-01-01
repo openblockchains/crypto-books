@@ -11,6 +11,7 @@ categories:
 - proof-of-waste
 - bubble
 - scams
+- ponzis
 - database
 - free
 prices: 'online: free'
