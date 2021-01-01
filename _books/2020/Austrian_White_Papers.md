@@ -9,6 +9,7 @@ categories:
 - ico
 - scams
 - austria
+- austrian-economics
 - heroplay
 - blocklancer
 - pantos

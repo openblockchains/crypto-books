@@ -23,7 +23,9 @@ categories:
 - number-go-up
 - hodl
 - scams
+- 21-million
 - ponzis
+- austrian-economics
 - free
 prices: 'online: free'
 editor: Bits & Blocks Press
