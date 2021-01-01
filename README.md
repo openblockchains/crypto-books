@@ -42,6 +42,6 @@ editor: Self Published
 ```
 
 
-Published @ [`openblockchains.github.io/books`](http://openblockchains.github.io/books).
+Published @ [`openblockchains.github.io/crypto-books`](http://openblockchains.github.io/crypto-books).
 
 
