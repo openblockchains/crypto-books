@@ -1,3 +1,7 @@
+
+Published @ [`openblockchains.github.io/crypto-books`](http://openblockchains.github.io/crypto-books).
+
+
 # Best of Crypto Books
 
 A collection of books, white papers & more about crypto and blockchains.
@@ -40,8 +44,4 @@ categories:
 prices: 'paperbook: $17.99'
 editor: Self Published
 ```
-
-
-Published @ [`openblockchains.github.io/crypto-books`](http://openblockchains.github.io/crypto-books).
-
 
