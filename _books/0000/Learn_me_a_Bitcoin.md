@@ -1,5 +1,5 @@
 ---
-title: Learn me a Bitcoin
+title: Learn me a Bitcoin - How Does Bitcoin Work?
 authors:
 - Greg Walker
 year:
