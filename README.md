@@ -1,6 +1,6 @@
 # Best of Crypto Books
 
-A list of books, white papers & more (published in English) about crypto and blockchains.
+A collection of books, white papers & more about crypto and blockchains.
 
 
 Note: Prices are indicative and may be incorrect.
