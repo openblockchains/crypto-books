@@ -7,8 +7,10 @@ home_url: https://learnmeabitcoin.com/
 categories:
 - bitcoin
 - blockchain
+- double-spend
 - mining
 - proof-of-waste
+- sha256
 - free
 prices: 'online: free'
 editor: Self Published
