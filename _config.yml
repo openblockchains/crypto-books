@@ -1,0 +1,12 @@
+
+
+collections:
+- books
+
+exclude:
+- README.md
+- NOTES.md
+- LICENSE.md
+- _attic
+
+

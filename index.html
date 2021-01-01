@@ -1,0 +1,252 @@
+---
+# best of crypto books page
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Best of Crypto Books @ Open Blockchains</title>
+    <meta name="description" content="A list of books, white papers & more (published in English) about crypto and blockchains.">
+
+    <!--
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+-->
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/united/bootstrap.min.css" rel="stylesheet" integrity="sha384-0UBL8wxZ28kqJ8w8N8RUV0odBG5w8D/Y+rb+o7hr2F3dS9twlAE8S7VUtVSRe5cc" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css" rel="stylesheet">
+
+    <style media="screen" type="text/css">
+      body {
+        min-height: 2000px;
+        padding-top: 70px;
+      }
+
+      a:hover {
+        text-decoration: none;
+      }
+
+      a.author {
+        color: black;
+      }
+
+      p.info {
+        font-style: italic;
+        color: lightgray;
+      }
+
+      .column {
+        float: left;
+      }
+
+      .authors {
+        font-weight: bold;
+      }
+
+      .editor-year {
+        font-style: italic;
+      }
+
+      button.btn-default {
+        background-color: #434545;
+        border-color: #434545;
+        padding: 4px 8px;
+      }
+
+      .bootstrap-select {
+        width: 150px !important;
+      }
+
+      .navbar-right {
+        margin-top: 10px;
+      }
+
+      .navbar-right li {
+        margin-right: 10px;
+      }
+
+      #navbar.in .navbar-right {
+        margin-top: -10px !important;
+      }
+
+      #navbar.in li {
+        margin-bottom: 10px;
+        margin-left: 10px;
+      }
+
+      .book {
+        height: 260px;
+      }
+    </style>
+
+
+{% assign books      = site.books | reverse %}
+{% assign categories = books | map: "categories" | uniq | sort_natural %}
+{% assign authors    = books | map: "authors" | uniq | sort_natural %}
+{% assign editors    = books | map: "editor" | uniq | sort_natural %}
+  </head>
+
+  <body>
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand"
+              title="A list of books, white papers & more (published in English) about crypto and blockchains."
+              href="{{ '/' | relative_url }}">Best of Crypto Books @ Open Blockchains</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="https://github.com/openblockchains/books">About</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <select id="author" class="selectpicker" data-live-search="true">
+                <option value="">All Authors</option>
+                {% for author in authors %}
+                  <option value="{{ author }}">{{ author }}</option>
+                {% endfor %}
+              </select>
+            </li>
+
+            <li>
+              <select id="category" class="selectpicker" data-live-search="true">
+                <option value="">All Categories</option>
+                {% for category in categories %}
+                  <option value="{{ category }}">{{ category }}</option>
+                {% endfor %}
+              </select>
+            </li>
+
+            <li>
+              <select id="editor" class="selectpicker" data-live-search="true">
+                <option value="">All Editors</option>
+                {% for editor in editors %}
+                  <option value="{{ editor }}">{{ editor }}</option>
+                {% endfor %}
+              </select>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div id="books-grid" class="container">
+      <div class="row">
+        {% for book in books %}
+          <div class="col-md-4">
+            <div class="thumbnail book" data-categories="{{ book.categories | join: ' • ' }}"
+                                        data-authors="{{ book.authors | join: ' • ' }}"
+                                        data-editor="{{ book.editor }}">
+              <div class="caption">
+                <h3> <a href="{{ book.home_url }}">{{ book.title | truncate: 40 }}</a> </h3>
+                <p>
+                  {% for category in book.categories %}
+                    <a href="?category={{ category }}"><span class="label label-default">{{ category }}</span></a>
+                  {% endfor %}
+                </p>
+                <p class="authors">
+                  {% for author in book.authors %}
+                    <a class='author' href='?author={{ author}}'>{{author}}</a>{% unless forloop.last %},{% endunless %}
+                  {% endfor %}
+                </p>
+              <p class="editor-year">
+                <a class='author' href="?editor={{ book.editor }}">{{ book.editor }}</a>, {{ book.year }}
+              </p>
+              <p>{{ book.prices }}</p>
+              <!--
+               <p class='info'>info last updated on {{ book.updated_on }}</p>
+              -->
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+ <!-- note: add our own little (inline) footer, see _includes for source -->
+ {% include footer.html %}
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js"></script>
+
+    <script>
+      $(function() {
+        var getQueryString = function(field) {
+          var href = window.location.href;
+          var reg = new RegExp( '[?&]' + field + '=([^&#]*)', 'i' );
+          var string = reg.exec(href);
+          return string ? decodeURIComponent(string[1]) : null;
+        };
+
+        var filterBooks = function() {
+          var editor   = $("#editor").val();
+          var author   = $("#author").val();
+          var category = $("#category").val();
+
+          $(".book").each(function() {
+            var display =
+              (editor === "" || $(this).data("editor") === editor) &&
+              (author === "" || $(this).data("authors").indexOf(author) !== -1) &&
+              (category === "" || $(this).data("categories").indexOf(category) !== -1);
+            $(this).parent().toggleClass("hidden", !display);
+          });
+        }
+
+        var updateQueryParams = function() {
+          $('html, body').animate({ scrollTop: 0 }, 'fast'); // from http://stackoverflow.com/a/4147118/117704
+
+          var author   = $("#author").val();
+          var category = $("#category").val();
+          var editor   = $("#editor").val();
+
+          if(history.pushState) {
+            var filteredValues = [];
+            if(author   != "") { filteredValues.push("author="   + author); }
+            if(category != "") { filteredValues.push("category=" + category); }
+            if(editor   != "") { filteredValues.push("editor="   + editor); }
+
+            var queryParams = filteredValues.join("&");
+            if(queryParams !== "") {
+              queryParams = "?" + queryParams;
+            } else {
+              queryParams = location.pathname;
+            }
+
+            history.pushState({author: author, category: category, editor: editor}, "All Ruby Books", queryParams);
+          }
+        }
+
+        var setSelectValuesFromQueryString = function() {
+          $('#author').val(getQueryString("author") || "");
+          $('#editor').val(getQueryString("editor") || "");
+          $('#category').val(getQueryString("category") || "");
+          $('select').selectpicker('render');
+        }
+
+        setSelectValuesFromQueryString();
+        filterBooks();
+
+        $("select").change(function() {
+          filterBooks();
+          updateQueryParams();
+        });
+
+        $(window).on("popstate", function() {
+          setSelectValuesFromQueryString();
+          filterBooks();
+        });
+      });
+    </script>
+  </body>
+</html>
