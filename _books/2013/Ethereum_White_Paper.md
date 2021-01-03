@@ -2,7 +2,7 @@
 title: "Ethereum: A Next-Generation Blockchain Contract and Decentralized Application Platform"
 authors:
 - Vitalik Buterin
-year: 2014
+year: 2013
 home_url: https://bitsblocks.github.io/ethereum-whitepaper
 categories:
 - bitcoin
