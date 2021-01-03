@@ -1,5 +1,5 @@
 ---
-title: "Mastering Ethereum: Building Blockchain Service Contracts"
+title: "Mastering Ethereum: Programming Blockchain Contracts"
 authors:
 - Andreas Antonopoulos
 - Gavin Wood

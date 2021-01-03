@@ -156,7 +156,7 @@
                                         data-authors="{{ book.authors | join: ' • ' }}"
                                         data-editor="{{ book.editor }}">
               <div class="caption">
-                <h3> <a href="{{ book.home_url }}">{{ book.title | truncate: 82 }}</a> </h3>
+                <h3> <a href="{{ book.home_url }}">{{ book.title | truncate: 92 }}</a> </h3>
                 <p>
                   {% for category in book.categories %}
                     <a href="?category={{ category }}"><span class="label label-default">{{ category }}</span></a>
