@@ -1,5 +1,5 @@
 ---
-title: Programming Blockchains Step-by-Step Guide
+title: Programming Blockchains Step-by-Step Guide (Beta)
 authors:
 - Gerald Bauer
 year: 2018
