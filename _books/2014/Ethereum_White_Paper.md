@@ -1,5 +1,5 @@
 ---
-title: "Ethereum: A Next-Generation Blockchain Service Contract and Decentralized Application Platform"
+title: "Ethereum: A Next-Generation Blockchain Contract and Decentralized Application Platform"
 authors:
 - Vitalik Buterin
 year: 2014
