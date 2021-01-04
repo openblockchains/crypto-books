@@ -3,13 +3,14 @@ title: "HODLing Gold? Gengis Khan is HODLing Sheep and Oxen: Inside the True Nat
 authors:
 - Adam Smith
 year: 1776
-home_url: https://bitsblocks.github.io/bitcoin-whitepaper
+home_url: https://github.com/openblockchains/crypto-books/tree/master/The_Wealth_of_Nations
 categories:
 - gold
 - hodl
 - wealth
 - sheep
 - oxen
+- gengis-khan
 - history
 - economics
 - free
