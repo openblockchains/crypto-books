@@ -12,5 +12,5 @@ categories:
 - gold
 - free
 prices: 'online: free'
-editor: Self-Published
+editor: Self Published
 ---
