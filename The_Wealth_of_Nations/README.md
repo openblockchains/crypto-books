@@ -2,8 +2,9 @@
 
 Adam Smith, 1776
 
+## Book IV. Of Systems of Political Economy. 
 
-## Chapter I. Of the Principle of the Commercial or Mercantile System.
+### Chapter I. Of the Principle of the Commercial or Mercantile System.
 
 That wealth consists in money, or in gold and silver, is a popular notion which naturally arises from the double function of money, as the instrument of commerce, and as the measure of value. In consequence of its being the instrument of commerce, when we have money we can more readily obtain whatever else we have occasion for, than by means of any other commodity. The great affair, we always find, is to get money. When that is obtained, there is no difficulty in making any subsequent purchase. In consequence of its being the measure of value, we estimate that of all other commodities by the quantity of money which they will exchange for. We say of a rich man, that he is worth a great deal, and of a poor man, that he is worth very little money. A frugal man, or a man eager to be rich, is said to love money; and a careless, a generous, or a profuse man, is said to be indifferent about it. To grow rich is to get money; and wealth and money, in short, are, in common language, considered as in every respect synonymous.
 
