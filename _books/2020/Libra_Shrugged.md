@@ -10,6 +10,6 @@ categories:
 - stablecoin
 - facebook
 prices: 'paperbook: $17.99'
-editor: Self Published
+editor: Self-Published
 ---
 
