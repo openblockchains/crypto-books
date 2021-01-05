@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Energy Consumption: Electrical Energy - 77.78 TWh, Carbon Footprint - 36.95 Mt CO2, Electronic Waste - 10.97 kt"
+title: "Bitcoin Energy Consumption: Electrical Energy - 77.78 TWh, Carbon Footprint - 36.95 Mt CO₂, Electronic Waste - 10.97 kt"
 authors:
 - Alex de Vries
 year:
@@ -7,7 +7,7 @@ home_url: https://digiconomist.net/bitcoin-energy-consumption
 categories:
 - bitcoin
 - carbon-footprint
-- co2
+- co₂
 - electrical-energy
 - twh
 - proof-of-waste
