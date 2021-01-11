@@ -1,16 +1,23 @@
 ---
-title: "Why Bitcoin is a Ponzi: A Type of Investment Fraud with Five Features"
+title: "Best of Bitcoin is a Ponzi (Investment Fraud): The Bigger the Lies the Better"
 authors:
 - Jorge Stolfi
+- Trolly McTrollface
+- Nicholas Weaver
+- Bruce Schneier
+- Nouriel Roubini
+- Paul Krugman
+- David Gerard
 year: 2021
-home_url: https://www.ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html
+home_url: https://openblockchains.github.io/bitcoin-ponzi/
 categories:
 - bitcoin
 - ponzi
 - cash-out 
 - usd
 - gold
+- proof-of-waste
 - free
 prices: 'online: free'
-editor: Self Published
+editor: Bits & Blocks Press
 ---
