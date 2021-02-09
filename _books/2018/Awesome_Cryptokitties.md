@@ -1,9 +1,9 @@
 ---
-title: "Awesome Crypto Kitties (Yes, Cute Little Cartoon Cats) on the Blockchain! and Crypto Copycats"
+title: "Awesome Crypto Kitties Bubble (Anno 2017) - Cartoon Cats on the Blockchain!"
 authors:
 - Gerald Bauer
 year: 2018
-home_url: https://github.com/cryptocopycats/awesome-cryptokitties
+home_url: https://github.com/cryptocopycats/awesome-cryptokitties-bubble
 categories:
 - ethereum
 - crytptokitties
