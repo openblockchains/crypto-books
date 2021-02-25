@@ -1,5 +1,5 @@
 ---
-title: Programming Crypto Collectibles Step-by-Step Guide (Beta)
+title: Programming Cryptokitties & Copycats - Inside Unique Bits & Bytes on the Blockchain (Beta)
 authors:
 - Gerald Bauer
 year: 2019
