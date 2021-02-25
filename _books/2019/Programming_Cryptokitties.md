@@ -1,5 +1,5 @@
 ---
-title: Programming Cryptokitties & Copycats - Inside Unique Bits & Bytes on the Blockchain (Beta)
+title: Programming Crypto Kitties & Copycats - Inside Unique Bits & Bytes on the Blockchain (Beta)
 authors:
 - Gerald Bauer
 year: 2019
