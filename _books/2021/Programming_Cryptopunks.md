@@ -1,5 +1,5 @@
 ---
-title: Programming Cryptopunks & Copypastas - Inside Unique Pixel Art on the Blockchain (Beta)
+title: Programming Crypto Punks & Copypastas - Inside Unique Pixel Art on the Blockchain (Beta)
 authors:
 - Gerald Bauer
 year: 2021
