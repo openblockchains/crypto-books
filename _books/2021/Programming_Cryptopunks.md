@@ -7,7 +7,11 @@ categories:
 - crypto
 - blockchain
 - punks
+- aliens
+- monalisa
+- christies
 - 24x24
+- 10000
 - art
 - pixels
 - free
